@@ -2,7 +2,7 @@
 
 ## アニメ
 
-![2020春季新番](imgs/2020%E6%98%A5%E5%AD%A3%E6%96%B0%E7%95%AA.jpg)
+![2020春季新番](img/2020%E6%98%A5%E5%AD%A3%E6%96%B0%E7%95%AA.jpg)
 
 * 动物新世代 *喵萌奶茶屋&LoliHouse* ***搁置***
 * 昨日之歌 *豌豆字幕组&风之圣殿字幕组*
@@ -14,7 +14,7 @@
 * 听我的电波吧 *星空字幕组*
 * 白猫project *喵萌奶茶屋&LoliHouse* ***抛弃：不想看了***
 
-![公主连结Re:Dive](imgs/pcredive-main.png)
+![公主连结Re:Dive](img/pcredive-main.png)
 
 * 公主连结Re:Dive *动漫国字幕组&风之圣殿字幕组*
 * 放学后海堤日记 *桜都字幕组*
@@ -40,7 +40,7 @@
 
 ## テレビシリーズ
 
-![别对映像研出手](/imgs/yingxiangya.png)
+![别对映像研出手](img/yingxiangya.png)
 
 * 别对映像研出手 *猪猪字幕组*
 
